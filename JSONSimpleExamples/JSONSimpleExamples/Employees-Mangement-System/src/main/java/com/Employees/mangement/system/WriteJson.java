@@ -7,7 +7,7 @@ import org.json.simple.JSONObject;
 
 public class WriteJson
 {
-    @SuppressWarnings("unchecked")
+    
     public static void main( String[] args )
     {
         System.out.println("HELLO");
